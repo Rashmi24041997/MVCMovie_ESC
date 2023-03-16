@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MVCMovie.Data;
 
-namespace WebApplication1
+namespace MVCMovie
 {
     public class Startup
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 
-namespace WebApplication1.Controllers
+namespace MVCMovie.Controllers
 {
     public class HelloWorldController : Controller
     {
