@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCMovie", "WebApplication1\MVCMovie.csproj", "{8C689CD5-A171-4723-8C67-5BB9630873B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCMovie", "MVCMovie\MVCMovie.csproj", "{8C689CD5-A171-4723-8C67-5BB9630873B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
